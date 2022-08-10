@@ -26,7 +26,7 @@ header {
 }
 
 header, section {
-  max-width: 400px;
+  max-width: 300px;
   margin: 0 auto;
 }
 
@@ -64,7 +64,7 @@ ul li {
 }
 
 li .details {
-  max-width: 300px;
+  max-width: 240px;
 }
 
 .details h3 {
